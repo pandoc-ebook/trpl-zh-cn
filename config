@@ -1,0 +1,1 @@
+EPUB_OPTIONS="-t epub3+smart --number-sections --highlight-style=$theme --toc -V --date=$DATE -V --datetime=$DATETIME"
