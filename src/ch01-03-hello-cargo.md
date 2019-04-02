@@ -83,7 +83,7 @@ $ cargo build
     Finished dev [unoptimized + debuginfo] target(s) in 2.85 secs
 ```
 
-这个命令会创建一个可执行文件 *target/debug/hello_cargo* （在 Windows 上是 *target\debug\hello_cargo.exe*），而不是放在目前目录下。可以通过这个命令运行可执行文件：
+这个命令会创建一个可执行文件 *target/debug/hello_cargo* （在 Windows 上是 `target\debug\hello_cargo.exe`），而不是放在目前目录下。可以通过这个命令运行可执行文件：
 
 ```text
 $ ./target/debug/hello_cargo # 或者在 Windows 下为 .\target\debug\hello_cargo.exe
