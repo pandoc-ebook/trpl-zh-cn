@@ -1,0 +1,20 @@
+---
+title: Rust 程序设计语言
+author:          # 作者（数组）
+  - Steve Klabnik
+#  - Carol Nichols
+#  - KaiserY及Rust中文社区翻译
+date: \today     # 日期
+copyright: true  # 是否生成版权页
+lof: true        # 是否生成插图列表页
+lot: true        # 是否生成表格列表页
+homepage: https://github.com/pandoc-ebook/trpl-zh-cn
+identifier:                      # epub用
+  - scheme: DOI
+    text: doi:10.234234.234/33
+publisher: pandoc-template       # epub用
+rights: © 2019, CC BY-NC   # epub用
+header-includes:
+  - \usepackage{cleveref}
+  - \usepackage{float}
+...
